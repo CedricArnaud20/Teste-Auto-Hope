@@ -1,0 +1,49 @@
+{
+    "PrimeroOrfa": {
+  
+            "name": "Lar da Esperança",
+            "description": "O Lar da Esperança é um lugar acolhedor que oferece cuidado e suporte para crianças órfãs, fornecendo um ambiente seguro e amoroso.",
+            "opening_hours": "08:00 - 17:00",
+            "open_on_weekends": "Não",
+                "position": {
+                  "latitude": -15.7409587, 
+                  "longitude": -47.7451673
+                },
+                "image": "criancas-felizes.jpg"
+
+                 
+ 
+    },
+
+    "SegundoOrfa": {
+  
+        "name": "Casa dos Anjos",
+        "description": "O Lar da Esperança é um lugar acolhedor que oferece cuidado e suporte para crianças órfãs, fornecendo um ambiente seguro e amoroso.",
+        "opening_hours": "08:00 - 17:00",
+        "open_on_weekends": "Sim",
+        "position": {
+            "latitude": -15.733016857055691, 
+            "longitude": -47.7499482035637
+        },
+        "image": "criancas-felizes.jpg"
+           
+
+    },
+
+    "map": {
+  
+        "name": "Casa da Alegria",
+        "description": "A Casa da Alegria é um ambiente caloroso e alegre onde as crianças recebem cuidados amorosos e têm a oportunidade de desenvolver todo o seu potencial.",
+        "opening_hours": "08:00 - 17:00",
+        "open_on_weekends": "Não",
+        "position": {
+            "latitude": -15.747153874167555, 
+            "longitude": -47.74896383285523
+        },
+        "image": "criancas-felizes.jpg"
+
+    }
+
+
+    
+}
